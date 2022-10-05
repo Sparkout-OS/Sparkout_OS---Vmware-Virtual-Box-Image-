@@ -52,5 +52,4 @@ Softwares Were Pre - Installed In Sparkout OS.
   
 # Images | Sparkout_OS-Extended-Professional-Edition
 
-![image](https://github.com/Sparkout-OS/Sparkout_OS-Vmware-Virtual-Box-Image
-Public/blob/main/1.png)  
+![image](https://github.com/Sparkout-OS/Sparkout_OS-Vmware-Virtual-Box-Image/Public/blob/main/1.png)  
