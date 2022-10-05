@@ -1,5 +1,3 @@
-# Sparkout_OS | Vmware-Virtual-Box-Image
-
 # Sparkout_OS ( Vmware & Virtual-Box-Image ) - Developed & Stable release By Haries Palaniappan
 
 Description [ Sparkout_OS ] : 
@@ -9,7 +7,6 @@ Description [ Sparkout_OS ] :
   * All Essential Drivers are Pre Installed for Better Software Comparativity.
   * Download Format : .ova File [ each file (512 MB)*47 Parts ]
 
-Link To Download : https://cloud.degoo.com/share/SBMfR581pREumIgF2WabwQ
   
 For Download & OS Customization
 contact - harzsecproducts@gmail.com
@@ -33,7 +30,7 @@ Sparkout OS Specification :
   * Features - Lite Weighted OS for Potato Computer.
   * Removed - TPM 2.0 - removed for windows 11 comparativity for Potato OS.   *New Features
   * Group Policy - Custom Declared.
-  * COMODO Firewall  - Custom Configuration [ Anti - Ransomeware ]            *New Features
+  * COMODO Firewall  - Custom Configuration [ Anti - Ransomware ]             *New Features
   * @ Restore Point Created Inside OS .Wim Files - For Easily Backup.         *New Features
   * Performance Optimized and 50 Bugs Fixed.
   * Android Apps support Without Third Party Emulator.                         *Windows 11 Default Feature
@@ -55,4 +52,5 @@ Softwares Were Pre - Installed In Sparkout OS.
   
 # Images | Sparkout_OS-Extended-Professional-Edition
 
-![image](https://github.com/Sparkout-OS/Sparkout_OS-Extended-Professional-Edition/blob/main/1.png)  
+![image](https://github.com/Sparkout-OS/Sparkout_OS-Vmware-Virtual-Box-Image
+Public/blob/main/1.png)  
