@@ -50,6 +50,6 @@ Softwares Were Pre - Installed In Sparkout OS.
   * Free Download Manager ( With Torrent Support ) 
   * XAMPP - Local Server ( Apache, PHP, MYSQL )
   
-# Images | Sparkout_OS-Extended-Professional-Edition
+# Images | Sparkout_OS ( Vmware & Virtual-Box-Image )
 
-![image](https://github.com/Sparkout-OS/Sparkout_OS-Vmware-Virtual-Box-Image/Public/blob/main/1.png)  
+![image](https://github.com/Sparkout-OS/Sparkout_OS-Vmware-Virtual-Box-Image/blob/main/1.png)  
